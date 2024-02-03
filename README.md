@@ -1,16 +1,4 @@
 # autoplot.github.io
+This is where I'm experimenting with migrating the Autoplot.org page to github pages.
 
-Heading Identifiers:
-### Red text title {#identifier .red}
-
-Fenced Code Attributes:
-{.red .numberLines startFrom="1"}
-
-Inline Code Attributes:
-`red text`{.red}
-
-Bracketed Spans:
-[This is *some red text*]{.red}
-
-Link Attributes:
-![alt text](the.jpg){.center}
+<img src="Logo96.png">
