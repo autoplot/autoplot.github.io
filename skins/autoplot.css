@@ -1,3 +1,20 @@
 body {
   background: black url("background.png") repeat fixed;
 }
+
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+td {
+
+}
+
+td.fixed {
+  width: 12em;
+}
+
+td.rest {
+  width: 50%;
+}
