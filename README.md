@@ -1,4 +1,5 @@
 # autoplot.github.io
-This is where I'm experimenting with migrating the Autoplot.org page to github pages.
+This is the website which was quickly set up after the old server had technical
+problems.  Its links are to the github documentation area. 
 
-<img src="Logo96.png">
+<img src="Logo96.png" width=16>
