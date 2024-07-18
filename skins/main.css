@@ -221,7 +221,6 @@ ul {
 	list-style-type: square;
 	margin: .3em 0 0 1.5em;
 	padding: 0;
-	list-style-image: url(bullet.gif);
 }
 ol {
 	line-height: 1.5em;
@@ -714,31 +713,25 @@ td.diff-context {
 */
 #bodyContent a.external,
 #bodyContent a[href ^="gopher://"] {
-//	background: url(external.png) center right no-repeat;
 //	padding-right: 13px;
 }
 #bodyContent a[href ^="https://"],
 .link-https {
-//	background: url(lock_icon.gif) center right no-repeat;
 //	padding-right: 16px;
 }
 #bodyContent a[href ^="mailto:"],
 .link-mailto {
-	background: url(mail_icon.gif) center right no-repeat;
 	padding-right: 18px;
 }
 #bodyContent a[href ^="news://"] {
-	background: url(news_icon.png) center right no-repeat;
 	padding-right: 18px;
 }
 #bodyContent a[href ^="ftp://"],
 .link-ftp {
-//	background: url(file_icon.gif) center right no-repeat;
 //	padding-right: 18px;
 }
 #bodyContent a[href ^="irc://"],
 .link-irc {
-	background: url(discussionitem_icon.gif) center right no-repeat;
 	padding-right: 18px;
 }
 #bodyContent a.external[href $=".ogg"], #bodyContent a.external[href $=".OGG"],
