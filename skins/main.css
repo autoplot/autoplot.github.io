@@ -741,7 +741,6 @@ td.diff-context {
 #bodyContent a.external[href $=".wav"], #bodyContent a.external[href $=".WAV"],
 #bodyContent a.external[href $=".wma"], #bodyContent a.external[href $=".WMA"],
 .link-audio {
-	background: url("audio.png") center right no-repeat;
 	padding-right: 13px;
 }
 #bodyContent a.external[href $=".ogm"], #bodyContent a.external[href $=".OGM"],
@@ -749,14 +748,12 @@ td.diff-context {
 #bodyContent a.external[href $=".mpeg"], #bodyContent a.external[href $=".MPEG"],
 #bodyContent a.external[href $=".mpg"], #bodyContent a.external[href $=".MPG"],
 .link-video {
-	background: url("video.png") center right no-repeat;
 	padding-right: 13px;
 }
 #bodyContent a.external[href $=".pdf"], #bodyContent a.external[href $=".PDF"],
 #bodyContent a.external[href *=".pdf#"], #bodyContent a.external[href *=".PDF#"],
 #bodyContent a.external[href *=".pdf?"], #bodyContent a.external[href *=".PDF?"],
 .link-document {
-//	background: url("document.png") center right no-repeat;
 //	padding-right: 12px;
 }
 
@@ -838,8 +835,6 @@ special external link styling */
 .portlet ul {
 	line-height: 1.5em;
 	list-style-type: square;
-	list-style-image: url(bullet.gif);
-
 	font-size: 95%;
 }
 .portlet li {
@@ -1009,7 +1004,6 @@ input.searchButton {
 	li#pt-userpage,
 	li#pt-anonuserpage,
 	li#pt-login {
-		background: url(user.gif) top left no-repeat;
 		padding-left: 20px;
 		text-transform: none;
 	}
