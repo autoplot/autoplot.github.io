@@ -18,8 +18,6 @@
  * @media rules and indentation.
  */
 
-#@import "jquery-print-preview-plugin-master/src/css/print-preview.css"
-
 #p-search h5 {
   display:none;
 }
@@ -96,7 +94,7 @@ table.collapsible {
 //h1 { display:none; }
 
 body {
-	font: sans-serif;
+	font: 12px sans-serif;
 	background: white 0 0 no-repeat;
 	color: black;
 	margin: 10;
